@@ -1,0 +1,11 @@
+* DESCRIPTION
+The goal is to have a lisp application that interfaces top educational resources from already available publically accessible courses in top disciplines
+
+* REQUIREMENTS
+GNU Guile
+
+* TODOS
+Notes, assignments, exams, reading list, projects
+Generic f(x) - print, transform, tracker
+Curses interface
+All core disciplines should be covered for top 5 universities

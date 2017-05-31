@@ -5,9 +5,7 @@ The goal is to have a lisp application that interfaces top educational resources
 GNU Guile
 
 * TODOS
-+ Features:
-++ Notes
-++ Assignments, exams, reading list, projects
++ Features: notes, video lectures, assignments, exams, reading list, projects
 + Generic f(x) - print, transform, tracker
 + Curses interface
 + All core disciplines should be covered for top 5 universities
